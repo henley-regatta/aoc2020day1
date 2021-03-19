@@ -1,0 +1,8 @@
+# Ignore all by default
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
