@@ -5,3 +5,11 @@ This is a minimal working example in GO of a complete program using packages, im
 
 It just so happens to use some previously-written code restructured but that's not important. 
 
+After pulling, you can build with:
+`go build`
+  
+Check out the fancy documentation with:
+`go doc -all day1`
+  
+And execute the unit tests with:
+`go test -v ./day1`
